@@ -1,2 +1,2 @@
 # toast_example
-Basic Exapmle on how to use the taost plugin
+Basic Example on how to use the taost plugin
